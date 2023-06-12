@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Applicita.CapsuleCRMTagManager.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
